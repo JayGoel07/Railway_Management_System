@@ -26,3 +26,4 @@ Overview: It is a Railway Management system in which a user can book tickets, ca
 9. Exit: Exit the program
 
 #`python3 Main.py` to see if the program is running correctly and is able to connect to MySQL Server
+# RailwayManagement.docx is attached in the repository to show a structural view of how the project is working.
